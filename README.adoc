@@ -1,2 +1,2 @@
-= exampleTomcatWar
-== This is a sample of a build setup for war artifact on local
+== exampleTomcatWar
+==== This is a sample of a build setup for war artifact on local
